@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "id": "pspkg-ps5-ar-ppsa28416-01003001",
+      "title": "Star Wars: Galactic Racer (v01.003.001)",
+      "title_id": "PPSA28416",
+      "kind": "game",
+      "platform": "ps5",
+      "format": "fpkg",
+      "size": "32.09 GB",
+      "region": "USA",
+      "version": "01.003.001",
+      "cover": "https://img.pspkg.com/arabic-games/image/star-wars-galactic-racer.webp?v=14085",
+      "description": "PSPKG - Arabic menus and dialogue. PS5 FPKG. This VikingFile URL is a host page, so browser verification may be needed. The separate 5.xx-12.xx backport shown on PSPKG is NOT included; verify compatibility before installation.",
+      "files": [
+        {
+          "url": "https://vik1ngfile.site/f/Dc0KloFKUF",
+          "name": "Star Wars Galactic Racer [PSPKG.com].pkg"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "VikingFile (browser verification may be required)",
+          "files": [
+            {
+              "url": "https://vik1ngfile.site/f/Dc0KloFKUF",
+              "name": "Star Wars Galactic Racer [PSPKG.com].pkg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
