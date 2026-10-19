@@ -1,12 +1,12 @@
 {
   "entries": [
     {
-      "id": "pspkg-ps5-ar-13767-27855-unverified",
-      "title": "Ghost of Yōtei [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13767",
+      "title": "Ghost of Yōtei",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/ghost-of-yotei.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 27855. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game data Filekeepr Datavaults Viki Akira",
+      "title_id": "PPSA26344",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
       "files": [
         {
           "url": "https://link-vault.org/c/i02k2yd1"
@@ -14,30 +14,15 @@
       ],
       "source_sets": [
         {
-          "host": "data (link-vault.org)",
+          "host": "الصيغة غير محددة | data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/i02k2yd1"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13767-27854-unverified",
-      "title": "Ghost of Yōtei [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/ghost-of-yotei.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 27854. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Data Viki Akira Filekeepr data",
-      "files": [
+        },
         {
-          "url": "https://datanodes.to/oevld7n1hwst"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/oevld7n1hwst"
@@ -45,7 +30,7 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/XOAWo7gde1"
@@ -53,23 +38,78 @@
           ]
         },
         {
-          "host": "data (datavaults.co)",
+          "host": "الصيغة غير محددة | data (datavaults.co)",
           "files": [
             {
               "url": "https://datavaults.co/45th7979bo20"
             }
           ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/EazyG0VS2X"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Data (datavaults.co)",
+          "files": [
+            {
+              "url": "https://datavaults.co/hm7d2xooa1dt"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Data (datanodes.to)",
+          "files": [
+            {
+              "url": "https://datanodes.to/etgkojb4u8r0"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/ghost-of-yotei-13767.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت."
     },
     {
-      "id": "pspkg-ps5-ar-14021-26313-pkg",
-      "title": "007 First Light [PKG]",
+      "id": "pspkg-ps5-ar-14006",
+      "title": "EA Sports FC 27",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/007-first-light.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26313. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: لعبة معربة (PKG) Mocha Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/c7c534e1e9b24ccf7ff11c429948f31494ccce402b452647.png",
+      "files": [
+        {
+          "url": "https://link-vault.org/c/9uc6rs7S"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/9uc6rs7S"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/pPm6iI1W8Y"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: Dump, Backport (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/ea-sports-fc-27-1-14006.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA34015"
+    },
+    {
+      "id": "pspkg-ps5-ar-14021",
+      "title": "007 First Light",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/cN9H0mycxu"
@@ -77,22 +117,55 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/cN9H0mycxu"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/fXRfgdKLM1"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/w3HsTGOIx5"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/3XoIRfQvjd"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/qAmReO4fmW"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Dump, Backport (ليس لعبة كاملة), DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/007-first-light-14021.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA11386"
     },
     {
-      "id": "pspkg-ps5-ar-13768-25912-unverified",
-      "title": "Resident Evil Requiem [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13768",
+      "title": "Resident Evil Requiem",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25912. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v01.200) Akira Data",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
       "files": [
         {
           "url": "https://datanodes.to/8309wmzhalqs"
@@ -100,69 +173,39 @@
       ],
       "source_sets": [
         {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/8309wmzhalqs"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13768-25911-unverified",
-      "title": "Resident Evil Requiem [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25911. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Viki Filekeepr 1file",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/LQDphOA8yK"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/LQDphOA8yK"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13768-25910-unverified",
-      "title": "Resident Evil Requiem [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25910. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Viki Mocha",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/PJeDLWkY39"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/PJeDLWkY39"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resident-evil-requiem-13768.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA30803"
     },
     {
-      "id": "pspkg-ps5-ar-14004-26342-pkg",
-      "title": "Marvel's Wolverine [PKG]",
+      "id": "pspkg-ps5-ar-14004",
+      "title": "Marvel's Wolverine",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26342. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.001.005)PKG Data Viki FileD FileK Akia",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
       "files": [
         {
           "url": "https://link-vault.org/c/0cJLlERL"
@@ -170,46 +213,47 @@
       ],
       "source_sets": [
         {
-          "host": "Data (link-vault.org)",
+          "host": "PKG | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/0cJLlERL"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14004-26340-ffpfsc",
-      "title": "Marvel's Wolverine [FFPFSC]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "ffpfsc",
-      "cover": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
-      "description": "PSPKG PS5 Arabic | FFPFSC | Edition 26340. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.001.005)ffpfsc Viki",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/cTTqnPQbih"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "FFPFSC | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/cTTqnPQbih"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/gaZafw96"
+            }
+          ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org) | رابط 2",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/T7Lao2hI"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, FFPFSC, Dump. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/marvel-s-wolverine-14004.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA03671"
     },
     {
-      "id": "pspkg-ps5-ar-13728-26013-unverified",
-      "title": "Black Myth Wukong [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13728",
+      "title": "Black Myth Wukong",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/6aacfa3c99de4.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 26013. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Rootz 1file التعريب Mocha Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/xd5vLUVgjl"
@@ -217,23 +261,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/xd5vLUVgjl"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/black-myth-wukong-1-13728.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA23226"
     },
     {
-      "id": "pspkg-ps5-ar-13757-26073-pkg",
-      "title": "Metal Gear Solid Δ: Snake Eater [PKG]",
+      "id": "pspkg-ps5-ar-13757",
+      "title": "Metal Gear Solid Δ: Snake Eater",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-snake-eater.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26073. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.001.004) PKG Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/d35b305652ee922a72b4020bd5d6ef36675cf526dd4945d1.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/KNJVTAF1Cy"
@@ -241,22 +285,47 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/KNJVTAF1Cy"
             }
           ]
+        },
+        {
+          "host": "Backport فقط | Mediafire (www.mediafire.com)",
+          "files": [
+            {
+              "url": "https://www.mediafire.com/file/625d3smnl0jlkz3/[DLPSGAME.COM]-MetalGearSolid_4xx.rar/file"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/Jwlql1Aftv"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/2lkQngS5RJ"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Backport (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/metal-gear-solid-snake-eater-13757.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA15304"
     },
     {
-      "id": "pspkg-ps5-ar-13749-25897-unverified",
-      "title": "Alan Wake 2 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13749",
+      "title": "Alan Wake 2",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/alan-wake-2.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25897. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game v01.200.007 Viki mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c3daf3037feb797d9e71b81618e3b5ff3ff1f9609db5a4a2.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/2FymPKiubs"
@@ -264,24 +333,48 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/2FymPKiubs"
             }
           ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/nDl8itzpyR"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Mediafire (www.mediafire.com)",
+          "files": [
+            {
+              "url": "https://www.mediafire.com/file/6l4pn5d52jniod4/[DLPSGAME.COM]+-+ALL+DLC+-+[PPSA02572].rar/file"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/BFiC3DpQnN"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/alan-wake-2-13749.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA02571"
     },
     {
-      "id": "pspkg-ps5-ar-14085-28049-pkg",
-      "title": "Star Wars: Galactic Racer [PKG]",
+      "id": "pspkg-ps5-ar-14085",
+      "title": "Star Wars: Galactic Racer",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
       "title_id": "PPSA28416",
-      "cover": "https://img.pspkg.com/arabic-games/image/star-wars-galactic-racer.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 28049. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.003.001)PKG Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/58ef6a7a23ea91e8b89e02f00792bde4c839daa63b90da0e.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/Dc0KloFKUF"
@@ -289,23 +382,54 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/Dc0KloFKUF"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/CjUQMI8R"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/LpZsWdoEOY"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/1ckJ6iAniz"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | DataVaults (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/n2nX4VAJ"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Dump, Backport (ليس لعبة كاملة), DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/star-wars-galactic-racer-14085.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت."
     },
     {
-      "id": "pspkg-ps5-ar-14084-28047-pkg",
-      "title": "The Last Faith [PKG]",
+      "id": "pspkg-ps5-ar-14084",
+      "title": "The Last Faith",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/the-last-faith-1.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 28047. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: اللعبة كاملة (pkg) Viki Akira FileK Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1102/70b8ca1f5df59bd0d14527d6635ba7a372d554632c9bf1a4.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/MDCSeh431W"
@@ -313,46 +437,31 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/MDCSeh431W"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14084-28046-archive",
-      "title": "The Last Faith [7z/RAR (تحقق)]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/the-last-faith-1.webp",
-      "description": "PSPKG PS5 Arabic | 7z/RAR (تحقق) | Edition 28046. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: اللعبة كاملة (7z) Viki Akira FileK Mocha",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/zj8JEvYZii"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "أرشيف، الصيغة غير مؤكدة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/zj8JEvYZii"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Archive (unverified). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/the-last-faith-1-14084.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA09347"
     },
     {
-      "id": "pspkg-ps5-ar-14081-28026-pkg",
-      "title": "Dispatch [PKG]",
+      "id": "pspkg-ps5-ar-14081",
+      "title": "Dispatch",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/dispatch.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 28026. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.000.013)PKG Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/8M7INy9D9n"
@@ -360,46 +469,31 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/8M7INy9D9n"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14081-28025-exfat",
-      "title": "Dispatch [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/dispatch.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 28025. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.000.013)exFAT Viki",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/yF4dzVUvw6"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "exFAT | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/yF4dzVUvw6"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/dispatch-14081.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA27158"
     },
     {
-      "id": "pspkg-ps5-ar-14077-28019-unverified",
-      "title": "Poppy Playtime: Chapter 1 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-14077",
+      "title": "Poppy Playtime: Chapter 1",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/poppy-playtime-chapter-1.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 28019. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: اللعبة كاملة FileK Akira Mocha Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2416/f4c095be7b000a29b298dda4b8a1c28f472466b25f44f1f7.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/9giqhRcbtl"
@@ -407,47 +501,32 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/9giqhRcbtl"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14077-28018-unverified",
-      "title": "Poppy Playtime: Chapter 1 [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/poppy-playtime-chapter-1.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 28018. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: اللعبة كاملة Akira FileK Mocha Viki",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/s8XnDhzfrN"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/s8XnDhzfrN"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/poppy-playtime-chapter-1-14077.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA18454"
     },
     {
-      "id": "pspkg-ps5-ar-14078-28007-pkg",
-      "title": "Control Resonant [PKG]",
+      "id": "pspkg-ps5-ar-14078",
+      "title": "Control Resonant",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
       "title_id": "PPSA34547",
-      "cover": "https://img.pspkg.com/arabic-games/image/control-resonant.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 28007. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: شكرا لstarnov على لعبة بصيغة pkg المنطقة: PPSA34547 EUR كلمة السر: pspkg.com ملاحظة: 4.xx+ روابط التحميل",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/KNgej2Ie4w"
@@ -455,270 +534,30 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/KNgej2Ie4w"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14078-28006-pkg",
-      "title": "Control Resonant [PKG]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/control-resonant.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 28006. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: لعبة معربة (v01.300.300)PKG Viki",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/VKr3VwdDg2"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/VKr3VwdDg2"
             }
           ]
         }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14060-27961-pkg",
-      "title": "South of Midnight [PKG]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/south-of-midnight.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27961. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.001)PKG Viki Mocha",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/Zw46Iywyal"
-        }
       ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/Zw46Iywyal"
-            }
-          ]
-        }
-      ]
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/control-resonant-14078.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت."
     },
     {
-      "id": "pspkg-ps5-ar-14062-27959-pkg",
-      "title": "Clair Obscur: Expedition 33 [PKG]",
+      "id": "pspkg-ps5-ar-14074",
+      "title": "Red Dead Redemption",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/clair-obscur-expedition-33.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27959. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game v01.500.300 PKG + التعريب Viki Mocha",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/WXSExlP9j7"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/WXSExlP9j7"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14062-27958-exfat",
-      "title": "Clair Obscur: Expedition 33 [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/clair-obscur-expedition-33.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 27958. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game v01.500.300 exfat + التعريب Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/hYgon43Aom"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/hYgon43Aom"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14069-27937-exfat",
-      "title": "SpongeBob SquarePants: Titans of The Tide [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/spongebob-squarepants-titans-of-the-tide.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 27937. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + DLC (v01.400)exFAT Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/05tsLZR5ID"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/05tsLZR5ID"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14069-27936-pkg",
-      "title": "SpongeBob SquarePants: Titans of The Tide [PKG]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/spongebob-squarepants-titans-of-the-tide.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27936. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + DLC (v01.400)PKG Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/CaqQ3VFJ72"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/CaqQ3VFJ72"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14013-27901-pkg",
-      "title": "Death Stranding 2: On the Beach [PKG]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/6ac2efc3bc260.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27901. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.013)PKG Data Viki FileK Akia FileD",
-      "files": [
-        {
-          "url": "https://datanodes.to/ahe5i0wjzicc"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Data (datanodes.to)",
-          "files": [
-            {
-              "url": "https://datanodes.to/ahe5i0wjzicc"
-            }
-          ]
-        },
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/IVlOXVDv83"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14013-27900-exfat",
-      "title": "Death Stranding 2: On the Beach [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/6ac2efc3bc260.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 27900. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.013)exFAT Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/lVC0Iutsxg"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/lVC0Iutsxg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14012-27899-pkg",
-      "title": "Death Stranding Director's Cut [PKG]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/6abfcc37325ef.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27899. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + DLC (v01.005)PKG Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/mqv2e8yiOV"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/mqv2e8yiOV"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14012-27898-exfat",
-      "title": "Death Stranding Director's Cut [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/6abfcc37325ef.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 27898. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + DLC (v01.005)exFAT Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/CpBmf3r66N"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/CpBmf3r66N"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14072-27989-unverified",
-      "title": "Red Dead Redemption [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/red-dead-redemption.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 27989. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1714/51f72f7876824968728fa5b711f48632ec453706fa46e07a.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/ABKGSAcBsg"
@@ -726,22 +565,223 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/ABKGSAcBsg"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/red-dead-redemption-1-14074.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA30528"
     },
     {
-      "id": "pspkg-ps5-ar-13754-25917-unverified",
-      "title": "Silent Hill 2 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-14060",
+      "title": "South of Midnight",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/silent-hill-2.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25917. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v01.006) Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png",
+      "files": [
+        {
+          "url": "https://vikingfile.com/f/Zw46Iywyal"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "PKG | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/Zw46Iywyal"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Data (datanodes.to)",
+          "files": [
+            {
+              "url": "https://datanodes.to/owrh4p1x9t06"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vik1ngfile.site)",
+          "files": [
+            {
+              "url": "https://vik1ngfile.site/f/FXSCePfSWp"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/3X3GP6GBVt"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Backport (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/south-of-midnight-14060.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA29642"
+    },
+    {
+      "id": "pspkg-ps5-ar-14062",
+      "title": "Clair Obscur: Expedition 33",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/e5833a53529ff9879e87689f1e8b04d45ba7e6c97fa791e2.png",
+      "files": [
+        {
+          "url": "https://vikingfile.com/f/WXSExlP9j7"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "PKG | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/WXSExlP9j7"
+            }
+          ]
+        },
+        {
+          "host": "exFAT | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/hYgon43Aom"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/nfk4xY4UHy"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/X857Yi8BiW"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/clair-obscur-expedition-33-14062.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA17599"
+    },
+    {
+      "id": "pspkg-ps5-ar-14069",
+      "title": "SpongeBob SquarePants: Titans of The Tide",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2322/626804e2fe940ac1139edf72b32b3c890e3aa2766dcae682.png",
+      "files": [
+        {
+          "url": "https://vikingfile.com/f/CaqQ3VFJ72"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "PKG | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/CaqQ3VFJ72"
+            }
+          ]
+        },
+        {
+          "host": "exFAT | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/05tsLZR5ID"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/spongebob-squarepants-titans-of-the-tide-14069.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA26893"
+    },
+    {
+      "id": "pspkg-ps5-ar-14013",
+      "title": "Death Stranding 2: On the Beach",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+      "files": [
+        {
+          "url": "https://datanodes.to/ahe5i0wjzicc"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "PKG | Data (datanodes.to)",
+          "files": [
+            {
+              "url": "https://datanodes.to/ahe5i0wjzicc"
+            }
+          ]
+        },
+        {
+          "host": "PKG | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/IVlOXVDv83"
+            }
+          ]
+        },
+        {
+          "host": "exFAT | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/lVC0Iutsxg"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/death-stranding-2-on-the-beach-14013.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA02015"
+    },
+    {
+      "id": "pspkg-ps5-ar-14012",
+      "title": "Death Stranding Director's Cut",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/Trdth4yKbz45CVH7VGCT1INp.png",
+      "files": [
+        {
+          "url": "https://vikingfile.com/f/mqv2e8yiOV"
+        }
+      ],
+      "source_sets": [
+        {
+          "host": "PKG | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/mqv2e8yiOV"
+            }
+          ]
+        },
+        {
+          "host": "exFAT | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/CpBmf3r66N"
+            }
+          ]
+        }
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/death-stranding-director-s-cut-14012.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA01969"
+    },
+    {
+      "id": "pspkg-ps5-ar-13754",
+      "title": "Silent Hill 2",
+      "kind": "game",
+      "platform": "ps5",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2000/IgwsFz9BiBrFvyV7pIWpoVgd.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/6aF3UKGk3i"
@@ -749,23 +789,47 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/6aF3UKGk3i"
             }
           ]
+        },
+        {
+          "host": "Backport فقط | Mediafire (www.mediafire.com)",
+          "files": [
+            {
+              "url": "https://www.mediafire.com/file/xfjhf6veih0ingq/[DLPSGAME.COM]-_4xx[PPSA08709][01.006.000].rar/file"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/ZGu6Z8lrYl"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/8xIdbUrTgd"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, Backport (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/silent-hill-2-13754.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA08710"
     },
     {
-      "id": "pspkg-ps5-ar-14043-26389-pkg",
-      "title": "Gran Turismo 7 [PKG]",
+      "id": "pspkg-ps5-ar-14043",
+      "title": "Gran Turismo 7",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/6ac545ad18e12.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26389. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.710)PKG Data Viki FileK Akia FileD",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/303f5701426596a09891f9f33fa93e49ae522d5295b26dce.png",
       "files": [
         {
           "url": "https://link-vault.org/c/9F6JZjjy"
@@ -773,22 +837,31 @@
       ],
       "source_sets": [
         {
-          "host": "Data (link-vault.org)",
+          "host": "PKG | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/9F6JZjjy"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/oeSJ8lHw"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Dump. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/gran-turismo-7-14043.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA01317"
     },
     {
-      "id": "pspkg-ps5-ar-13774-25865-unverified",
-      "title": "Tekken 8 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13774",
+      "title": "Tekken 8",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/tekken-8.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25865. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v03.000.001) Datano Filekeepr Viki Akira Datavau",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/aff71a0ced271048f5079b1fcf715bcb45110efc13e9704a.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/wRYx6HQlVi"
@@ -796,30 +869,15 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/wRYx6HQlVi"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13774-25864-unverified",
-      "title": "Tekken 8 [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/tekken-8.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25864. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v03.000.001) Data Viki Akira box Datavaults Filekeepr",
-      "files": [
+        },
         {
-          "url": "https://datanodes.to/u6pf9relc6ca"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/u6pf9relc6ca"
@@ -827,7 +885,7 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/RAQw9M1v4q"
@@ -835,23 +893,39 @@
           ]
         },
         {
-          "host": "Datavaults (datavaults.co)",
+          "host": "الصيغة غير محددة | Datavaults (datavaults.co)",
           "files": [
             {
               "url": "https://datavaults.co/ua1jj7uif0zs"
             }
           ]
+        },
+        {
+          "host": "إضافات DLC فقط | Datanodes (datanodes.to)",
+          "files": [
+            {
+              "url": "https://datanodes.to/u8kktgjd1sry"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Datavaults (datavaults.co)",
+          "files": [
+            {
+              "url": "https://datavaults.co/k2zkcia9ycws"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/tekken-8-13774.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA10595"
     },
     {
-      "id": "pspkg-ps5-ar-14041-27831-pkg",
-      "title": "Silent Hill: Townfall [PKG]",
+      "id": "pspkg-ps5-ar-14041",
+      "title": "Silent Hill: Townfall",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 27831. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v02.003.000)PKG معربة Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/ZpKTzLZKYB"
@@ -859,23 +933,47 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/ZpKTzLZKYB"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/uF6VuB0s"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/gmv7acINCN"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/mSLVmhiY5b"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Dump, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/silent-hill-townfall-14041.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA33286"
     },
     {
-      "id": "pspkg-ps5-ar-14032-26343-pkg",
-      "title": "Resonance: A Plague Tale Legacy [PKG]",
+      "id": "pspkg-ps5-ar-14032",
+      "title": "Resonance: A Plague Tale Legacy",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/resonance-a-plague-tale-legacy.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26343. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.002)PKG Data FileK Viki Akia FileD",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1510/346857c01378e194d77def3f3029d79489509c541aa761d6.png",
       "files": [
         {
           "url": "https://link-vault.org/c/PMg_NakC"
@@ -883,23 +981,39 @@
       ],
       "source_sets": [
         {
-          "host": "Data (link-vault.org)",
+          "host": "PKG | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/PMg_NakC"
             }
           ]
+        },
+        {
+          "host": "Dump (مجلد) | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/4823A2dH"
+            }
+          ]
+        },
+        {
+          "host": "إضافات DLC فقط | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/u7bUZyNy"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, Dump, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resonance-a-plague-tale-legacy-14032.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA30601"
     },
     {
-      "id": "pspkg-ps5-ar-14027-26278-pkg",
-      "title": "Crash Bandicoot 4: It's About Time [PKG]",
+      "id": "pspkg-ps5-ar-14027",
+      "title": "Crash Bandicoot 4: It's About Time",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/crash-bandicoot-4-it-s-about-time.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26278. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.000.002)PKG Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/1918/psoOkDbYuMdr1RsJo6TpU6bg.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/32QtPdjx6z"
@@ -907,23 +1021,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/32QtPdjx6z"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/crash-bandicoot-4-it-s-about-time-14027.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA02432"
     },
     {
-      "id": "pspkg-ps5-ar-14023-26268-pkg",
-      "title": "Horizon Forbidden West Complete Edition [PKG]",
+      "id": "pspkg-ps5-ar-14023",
+      "title": "Horizon Forbidden West Complete Edition",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/6ac2424fc4f2c.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26268. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.030)PKG Data Viki Vault Akia FileK",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2015/7c170d967a56776d9e1dc5ebaf45fefccbe9f12ef3fc752e.png",
       "files": [
         {
           "url": "https://datanodes.to/y6zezor37lj"
@@ -931,7 +1045,7 @@
       ],
       "source_sets": [
         {
-          "host": "Data (datanodes.to)",
+          "host": "PKG | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/y6zezor37lj"
@@ -939,31 +1053,15 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/YHUv0dCQaO"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14023-26267-exfat",
-      "title": "Horizon Forbidden West Complete Edition [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/6ac2424fc4f2c.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 26267. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.030)exFAT Data Viki Akia",
-      "files": [
+        },
         {
-          "url": "https://datanodes.to/w815mry9bvvk"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Data (datanodes.to)",
+          "host": "exFAT | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/w815mry9bvvk"
@@ -971,22 +1069,23 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "exFAT | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/ytlAdbExPm"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/horizon-forbidden-west-complete-edition-14023.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA17905"
     },
     {
-      "id": "pspkg-ps5-ar-13972-26207-unverified",
-      "title": "Alan Wake Remastered [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13972",
+      "title": "Alan Wake Remastered",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/alan-wake-remastered.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 26207. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game v01.005 Viki mocha",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202109/2709/wMyl8RQ9Tvi99wjgPPEBGVyX.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/2ubuPc8hrl"
@@ -994,23 +1093,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/2ubuPc8hrl"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/alan-wake-remastered-13972.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA01924"
     },
     {
-      "id": "pspkg-ps5-ar-14014-26187-pkg",
-      "title": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition [PKG]",
+      "id": "pspkg-ps5-ar-14014",
+      "title": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/6abfcddd545c0.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26187. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.010)PKG Data Viki FileK Akia FileD",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1118/04a1dccd62834eabfac097824ab1c352ea2b39ca8a092228.png",
       "files": [
         {
           "url": "https://link-vault.org/c/p8otTvRr"
@@ -1018,47 +1117,39 @@
       ],
       "source_sets": [
         {
-          "host": "Data (link-vault.org)",
+          "host": "PKG | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/p8otTvRr"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-14014-26186-exfat",
-      "title": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/6abfcddd545c0.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 26186. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.010)exFAT Data FileK",
-      "files": [
+        },
         {
-          "url": "https://link-vault.org/c/MhqKees0"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Data (link-vault.org)",
+          "host": "exFAT | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/MhqKees0"
             }
           ]
+        },
+        {
+          "host": "إضافات DLC فقط | Data (link-vault.org)",
+          "files": [
+            {
+              "url": "https://link-vault.org/c/84RV1GCx"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/lego-batman-legacy-of-the-dark-knight-14014.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA16833"
     },
     {
-      "id": "pspkg-ps5-ar-14005-26122-exfat",
-      "title": "Assassin's Creed Black Flag Resynced Deluxe Edition [exFAT]",
+      "id": "pspkg-ps5-ar-14005",
+      "title": "Assassin's Creed Black Flag Resynced Deluxe Edition",
       "kind": "game",
       "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/assassin-s-creed-black-flag-resynced-deluxe-edition.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 26122. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.006.038)exFAT Data",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/2a9a124fd03b1e72ea2f1916ccfdeff0424505836b660853.png",
       "files": [
         {
           "url": "https://link-vault.org/c/AZp-82S_"
@@ -1066,24 +1157,24 @@
       ],
       "source_sets": [
         {
-          "host": "Data (link-vault.org)",
+          "host": "exFAT | Data (link-vault.org)",
           "files": [
             {
               "url": "https://link-vault.org/c/AZp-82S_"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/assassin-s-creed-black-flag-resynced-deluxe-edition-14005.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA28183"
     },
     {
-      "id": "pspkg-ps5-ar-13995-26051-pkg",
-      "title": "Battlefield 6 [PKG]",
+      "id": "pspkg-ps5-ar-13995",
+      "title": "Battlefield 6",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
       "title_id": "PPSA19534",
-      "cover": "https://img.pspkg.com/arabic-games/image/battlefield-6.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26051. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.000.016) – BP 4.xx – PPSA19534 PKG Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/G1Numhz6Mb"
@@ -1091,47 +1182,30 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/G1Numhz6Mb"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13995-26050-exfat",
-      "title": "Battlefield 6 [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/battlefield-6.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 26050. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game v01.000.016 exfat Viki",
-      "files": [
+        },
         {
-          "url": "https://vikingfile.com/f/WfMZfH6YAx"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
+          "host": "exFAT | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/WfMZfH6YAx"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/battlefield-6-13995.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت."
     },
     {
-      "id": "pspkg-ps5-ar-13743-26014-pkg",
-      "title": "Resident Evil 2 [PKG]",
+      "id": "pspkg-ps5-ar-13743",
+      "title": "Resident Evil 2",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-2.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 26014. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game (v01.003) (pkg) Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/EpsVvsbmcj"
@@ -1139,47 +1213,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/EpsVvsbmcj"
             }
           ]
         }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13979-25990-exfat",
-      "title": "Marvels Spider Man 2 Deluxe Edition [exFAT]",
-      "kind": "game",
-      "platform": "ps5",
-      "format": "exfat",
-      "cover": "https://img.pspkg.com/arabic-games/image/marvels-spider-man-2-deluxe-edition.webp",
-      "description": "PSPKG PS5 Arabic | exFAT | Edition 25990. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + Dlc (v01.004.003) exfat Rootz Mocha Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/yHAfXrnvWw"
-        }
       ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/yHAfXrnvWw"
-            }
-          ]
-        }
-      ]
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resident-evil-2-13743.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA04288"
     },
     {
-      "id": "pspkg-ps5-ar-13979-25989-pkg",
-      "title": "Marvels Spider Man 2 Deluxe Edition [PKG]",
+      "id": "pspkg-ps5-ar-13979",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/marvels-spider-man-2-deluxe-edition.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 25989. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game + Dlc (v01.004.003) PKG Mocha Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1301/bf9002aa05ee78610179d978eb5f1cb877cfd81828507f33.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/bYRX0pgACA"
@@ -1187,22 +1237,31 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/bYRX0pgACA"
             }
           ]
+        },
+        {
+          "host": "exFAT | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/yHAfXrnvWw"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG, exFAT. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/marvels-spider-man-2-deluxe-edition-13979.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA03016"
     },
     {
-      "id": "pspkg-ps5-ar-13758-25974-unverified",
-      "title": "REANIMAL [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13758",
+      "title": "REANIMAL",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/reanimal.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25974. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game 1.06 Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2109/25422d8bda53b48e35f690b9d68590ab3f5eb4df8755c84f.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/uGSBJbRXxl"
@@ -1210,23 +1269,31 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/uGSBJbRXxl"
             }
           ]
+        },
+        {
+          "host": "إضافات DLC فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/xD3A4TuWzD"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, DLC (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/reanimal-13758.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA23372"
     },
     {
-      "id": "pspkg-ps5-ar-13981-25936-pkg",
-      "title": "Saros [PKG]",
+      "id": "pspkg-ps5-ar-13981",
+      "title": "Saros",
       "kind": "game",
       "platform": "ps5",
-      "format": "pkg",
-      "cover": "https://img.pspkg.com/arabic-games/image/saros.webp",
-      "description": "PSPKG PS5 Arabic | PKG | Edition 25936. صيغة الملف مؤكدة من وصف المصدر، لكن الملف نفسه لم يتم تنزيله للتحقق. وصف المصدر: Game v1.00 Pkg Mocha Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/78549217df5077bea107700e077d04be6a9a4b0dfbcd821a.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/aGYrgMaTj9"
@@ -1234,22 +1301,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "PKG | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/aGYrgMaTj9"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: PKG. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/saros-13981.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA07632"
     },
     {
-      "id": "pspkg-ps5-ar-13973-25913-unverified",
-      "title": "Dynasty Warriors: Origins [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13973",
+      "title": "Dynasty Warriors: Origins",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/dynasty-warriors-origins.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25913. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game v01.005.000 Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3101/2ba9c1b910e2d5544ffa9d2dc648bf5c16008e4244e4b5f2.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/5GOmKhPJ3Y"
@@ -1257,22 +1325,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/5GOmKhPJ3Y"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/dynasty-warriors-origins-13973.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA15972"
     },
     {
-      "id": "pspkg-ps5-ar-13775-25905-unverified",
-      "title": "Resident Evil 7: Biohazard Gold Edition [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13775",
+      "title": "Resident Evil 7: Biohazard Gold Edition",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-7-biohazard-gold-edition.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25905. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game v01.004 Viki Mocha",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/oGHhaQR5Y8ydAMUUBBPvylI7.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/CKiKrLI78T"
@@ -1280,22 +1349,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/CKiKrLI78T"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resident-evil-7-biohazard-gold-edition-13775.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA04404"
     },
     {
-      "id": "pspkg-ps5-ar-13761-25899-unverified",
-      "title": "Resident Evil 4 Remake [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13761",
+      "title": "Resident Evil 4 Remake",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-4-remake.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25899. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game v01.590 Data Datav Filekeepr Viki Akira",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
       "files": [
         {
           "url": "https://datanodes.to/ix1psv1cjind"
@@ -1303,7 +1373,7 @@
       ],
       "source_sets": [
         {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/ix1psv1cjind"
@@ -1311,30 +1381,15 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/EshR9xXJIB"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13761-25898-unverified",
-      "title": "Resident Evil 4 Remake [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-4-remake.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25898. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game 7.xx+ Viki | Game 4.xx+ mocha Viki",
-      "files": [
+        },
         {
-          "url": "https://vik1ngfile.site/f/ArZnRwmZr0"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Viki (vik1ngfile.site)",
+          "host": "الصيغة غير محددة | Viki (vik1ngfile.site)",
           "files": [
             {
               "url": "https://vik1ngfile.site/f/ArZnRwmZr0"
@@ -1342,22 +1397,23 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/bNlrgdAY6J"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resident-evil-4-remake-13761.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA07411"
     },
     {
-      "id": "pspkg-ps5-ar-13783-25288-unverified",
-      "title": "Monster Hunter Wilds Premium Deluxe Edition [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13783",
+      "title": "Monster Hunter Wilds Premium Deluxe Edition",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/monster-hunter-wilds-premium-deluxe-edition.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25288. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v01.041.040) Data Viki Datav Akira Filekeepr",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0507/3478a11eabe5db7d9988db286f2ca69858552e3a024eeb9d.png",
       "files": [
         {
           "url": "https://datanodes.to/tgvndrtn576t"
@@ -1365,7 +1421,7 @@
       ],
       "source_sets": [
         {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/tgvndrtn576t"
@@ -1373,22 +1429,23 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/gSo8mNkSFo"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/monster-hunter-wilds-premium-deluxe-edition-13783.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA07862"
     },
     {
-      "id": "pspkg-ps5-ar-13781-25276-unverified",
-      "title": "Cyberpunk 2077 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13781",
+      "title": "Cyberpunk 2077",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/cyberpunk-2077.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25276. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v02.120) + DLC Akira Rootz 1file Buznew التعريب Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/GIZueoE6Oo"
@@ -1396,22 +1453,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/GIZueoE6Oo"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/cyberpunk-2077-13781.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA03974"
     },
     {
-      "id": "pspkg-ps5-ar-13776-25255-unverified",
-      "title": "God of War Ragnarök [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13776",
+      "title": "God of War Ragnarök",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/god-of-war-ragnarok.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25255. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v06.006) + dlc Data Akira Viki Filekeepr Data",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/b69c06fb108299866057126b0d3a0530bdf96a39d2ce1cb9.png",
       "files": [
         {
           "url": "https://datanodes.to/5cv2djaijxh9"
@@ -1419,7 +1477,7 @@
       ],
       "source_sets": [
         {
-          "host": "Data (datanodes.to)",
+          "host": "الصيغة غير محددة | Data (datanodes.to)",
           "files": [
             {
               "url": "https://datanodes.to/5cv2djaijxh9"
@@ -1427,7 +1485,7 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/owryBfbCmL"
@@ -1435,30 +1493,15 @@
           ]
         },
         {
-          "host": "Data (datavaults.co)",
+          "host": "الصيغة غير محددة | Data (datavaults.co)",
           "files": [
             {
               "url": "https://datavaults.co/mdnu6kyy1iar"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13776-25254-unverified",
-      "title": "God of War Ragnarök [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/god-of-war-ragnarok.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25254. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v06.006) + dlc Datan Datavaults Viki Filekeepr Akira",
-      "files": [
+        },
         {
-          "url": "https://datavaults.co/arwccd9en6p9"
-        }
-      ],
-      "source_sets": [
-        {
-          "host": "Datavaults (datavaults.co)",
+          "host": "الصيغة غير محددة | Datavaults (datavaults.co)",
           "files": [
             {
               "url": "https://datavaults.co/arwccd9en6p9"
@@ -1466,45 +1509,23 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/UzK0HMfzxb"
             }
           ]
         }
-      ]
-    },
-    {
-      "id": "pspkg-ps5-ar-13731-25185-unverified",
-      "title": "Kingdom Come Deliverance 2 [الصيغة غير محددة]",
-      "kind": "game",
-      "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/kingdom-come-deliverance-2.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25185. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: يرجى أنتظار حل مشكلة التعريب Viki",
-      "files": [
-        {
-          "url": "https://vikingfile.com/f/d7mpDVEqOg"
-        }
       ],
-      "source_sets": [
-        {
-          "host": "Viki (vikingfile.com)",
-          "files": [
-            {
-              "url": "https://vikingfile.com/f/d7mpDVEqOg"
-            }
-          ]
-        }
-      ]
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/god-of-war-ragnarok-13776.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA08329"
     },
     {
-      "id": "pspkg-ps5-ar-13753-25163-unverified",
-      "title": "Sifu [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13753",
+      "title": "Sifu",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/sifu-1.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25163. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v01.024.000) Akira Viki 1file | Game (v01.024.000) Akira Viki 1file التعريب Viki",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/YpeTLbF5g8"
@@ -1512,7 +1533,7 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/YpeTLbF5g8"
@@ -1520,22 +1541,23 @@
           ]
         },
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com) | رابط 2",
           "files": [
             {
               "url": "https://vikingfile.com/f/QSs6Rzko4H"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/sifu-1-13753.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA05132"
     },
     {
-      "id": "pspkg-ps5-ar-13746-25139-unverified",
-      "title": "Resident Evil 3 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13746",
+      "title": "Resident Evil 3",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/resident-evil-3-1.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25139. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game Viki",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0206/WmriZBRlSeXWEEDLJOWW7MdW.png",
       "files": [
         {
           "url": "https://vikingfile.com/f/jpdwk4b08R"
@@ -1543,22 +1565,23 @@
       ],
       "source_sets": [
         {
-          "host": "Viki (vikingfile.com)",
+          "host": "الصيغة غير محددة | Viki (vikingfile.com)",
           "files": [
             {
               "url": "https://vikingfile.com/f/jpdwk4b08R"
             }
           ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة. اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/resident-evil-3-1-13746.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA03952"
     },
     {
-      "id": "pspkg-ps5-ar-13732-25118-unverified",
-      "title": "The Outer Worlds 2 [الصيغة غير محددة]",
+      "id": "pspkg-ps5-ar-13732",
+      "title": "The Outer Worlds 2",
       "kind": "game",
       "platform": "ps5",
-      "cover": "https://img.pspkg.com/arabic-games/image/the-outer-worlds-2.webp",
-      "description": "PSPKG PS5 Arabic | الصيغة غير محددة | Edition 25118. صيغة الملف غير مؤكدة من ملف الاستخراج؛ راجع صفحة PSPKG قبل التنزيل. وصف المصدر: Game (v01.100.001) Rootz Mediafire Akira 1fichier",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
       "files": [
         {
           "url": "https://1fichier.com/?stvm1hufjd4u5qtll623"
@@ -1566,14 +1589,40 @@
       ],
       "source_sets": [
         {
-          "host": "1fichier (1fichier.com)",
+          "host": "الصيغة غير محددة | 1fichier (1fichier.com)",
           "files": [
             {
               "url": "https://1fichier.com/?stvm1hufjd4u5qtll623"
             }
           ]
+        },
+        {
+          "host": "Backport فقط | Mediafire (www.mediafire.com)",
+          "files": [
+            {
+              "url": "https://www.mediafire.com/file/cuxse2ru30j7ckt/[DLPSGAME.COM]-4xx[PPSA24588][01.100.001].zip/file"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com)",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/u6nzWAakMZ"
+            }
+          ]
+        },
+        {
+          "host": "Backport فقط | Viki (vikingfile.com) | رابط 2",
+          "files": [
+            {
+              "url": "https://vikingfile.com/f/au12FUWMDX"
+            }
+          ]
         }
-      ]
+      ],
+      "description": "PSPKG PS5 Arabic | الصيغ/الملفات: غير محددة, Backport (ليس لعبة كاملة). اختر صيغة التحميل من أسماء السيرفرات في Download From / Solve CAPTCHA. تنبيه: Backport وDLC والتحديثات ليست اللعبة الأساسية. إذا كان الخيار غير محدد الصيغة راجع المصدر. صفحة المصدر: https://pspkg.com/ar/arabic-games/the-outer-worlds-2-13732.html ملاحظة: PPSA خاص بصفحة اللعبة الرسمية للغلاف؛ تأكد من معرّف النسخة الفعلي عند التثبيت.",
+      "title_id": "PPSA24588"
     }
   ]
 }
